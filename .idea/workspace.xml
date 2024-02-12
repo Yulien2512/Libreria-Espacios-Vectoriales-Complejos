@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67a1870b-a82a-4089-8dfc-8e02ae54e19e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComplexIntro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ComplexIntro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Complex_Vector_Matrix_Operations_with_NumPy-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Complex_Vector_Matrix_Operations_with_NumPy-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Complex_Vector_Matrix_Operations_with_NumPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Complex_Vector_Matrix_Operations_with_NumPy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
